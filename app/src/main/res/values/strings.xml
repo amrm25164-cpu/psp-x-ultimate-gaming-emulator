@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PSP X</string>
+    <string name="main_title">PSP X – Ultimate Gaming Emulator</string>
+    <string name="library">Games Library</string>
+    <string name="mini_games">Mini Games</string>
+    <string name="emulator">PSP Emulator</string>
+    <string name="settings">Settings</string>
+    <string name="favorites">Favorites</string>
+    <string name="search">Search</string>
+    <string name="import_games">Import PSP Games</string>
+    <string name="recent">Recent</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="best_score">Best Score</string>
+    <string name="game_over">Game Over</string>
+    <string name="sound">Sound</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="graphics">Graphics</string>
+    <string name="performance">Performance</string>
+    <string name="language">Language</string>
+    <string name="save_progress">Save Progress</string>
+    <string name="external_controls">External Controls</string>
+    <string name="fullscreen">Fullscreen</string>
+    <string name="add_game">Add Game</string>
+</resources>
